@@ -3,24 +3,6 @@
         <div class="d-title">
             {{ title }}
         </div>
-        <div class="item">
-            <img
-                src="./ds-weixin.png"
-                alt=""
-            >
-            <div class="ds-title">
-                微信
-            </div>
-        </div>
-        <div class="item">
-            <img
-                src="./ds-alipay.png"
-                alt=""
-            >
-            <div class="ds-title">
-                支付宝
-            </div>
-        </div>
     </div>
 </template>
 
